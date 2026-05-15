@@ -1,6 +1,6 @@
 # Fraud Detection using Machine Learning
 
-## Project Overview
+# Project Overview
 
 This project focuses on detecting fraudulent financial transactions using Machine Learning, Exploratory Data Analysis (EDA) and behavioural feature engineering techniques.
 
@@ -15,7 +15,7 @@ Fraud detection is one of the most business-critical applications of Data Scienc
 
 This project explores how transaction behaviour, login activity, spending patterns and transaction timing can help identify suspicious activities.
 
----
+
 
 # Objectives
 
@@ -27,7 +27,7 @@ This project explores how transaction behaviour, login activity, spending patter
 * Train and evaluate machine learning models
 * Understand why fraud model evaluation goes beyond accuracy
 
----
+
 
 # Key Learning Areas
 
@@ -42,7 +42,6 @@ This project helped strengthen practical understanding of:
 * Model Evaluation
 * Business-focused Machine Learning
 
----
 
 # Tech Stack
 
@@ -57,7 +56,6 @@ This project helped strengthen practical understanding of:
 | Jupyter Notebook | Development Environment              |
 | OpenAI Codex     | AI-assisted coding & experimentation |
 
----
 
 # Dataset Features
 
@@ -81,7 +79,6 @@ The dataset contains transaction-level behavioural information such as:
 | is_weekend             | Weekend transaction indicator             |
 | is_fraud               | Target variable                           |
 
----
 
 # Exploratory Data Analysis (EDA)
 
@@ -104,7 +101,6 @@ The project involved detailed Exploratory Data Analysis to understand:
 - Fraud Rate Analysis
 - Distribution Analysis
 
----
 
 # Key Fraud Insights
 
@@ -116,7 +112,6 @@ Some important behavioural observations discovered during analysis:
 * New devices and unfamiliar locations carried higher fraud risk
 * Fraud datasets are highly imbalanced, making evaluation more complex
 
----
 
 # Feature Engineering
 
@@ -178,7 +173,6 @@ Feature engineering helped the model better understand:
 
 This improved the model’s ability to identify fraud patterns.
 
----
 
 # Handling Imbalanced Data
 
@@ -207,7 +201,6 @@ Without stratification:
 * evaluation becomes unreliable
 * the model may barely learn fraud patterns
 
----
 
 ## Class Weight Balancing
 
@@ -238,7 +231,6 @@ This increases the penalty for misclassifying fraudulent transactions.
 
 This was an important practical learning during the project.
 
----
 
 # Machine Learning Models
 
@@ -254,7 +246,6 @@ The project focused on understanding:
 * false positives
 * fraud detection sensitivity
 
----
 
 # Model Evaluation
 
@@ -271,8 +262,6 @@ A model predicting every transaction as non-fraud may still achieve:
 ```
 
 But it completely fails to detect fraud.
-
----
 
 # Important Evaluation Metrics
 
@@ -293,18 +282,16 @@ In fraud detection:
 * False negatives are critical
 * Recall often becomes more important than accuracy
 
----
 
 # Project Highlights
 
-✅ End-to-end fraud analytics workflow
-✅ Behavioural feature engineering
-✅ Advanced EDA & visualization
-✅ Imbalanced classification handling
-✅ Business-focused model evaluation
-✅ Fraud behaviour interpretation
+- End-to-end fraud analytics workflow
+- Behavioural feature engineering
+- Advanced EDA & visualization
+- Imbalanced classification handling
+- Business-focused model evaluation
+- Fraud behaviour interpretation
 
----
 
 # Use of OpenAI Codex
 
@@ -327,7 +314,6 @@ The focus remained strongly on:
 
 AI-assisted development significantly improved productivity while allowing deeper focus on analytical thinking.
 
----
 
 # Future Improvements
 
@@ -341,9 +327,8 @@ Potential future enhancements:
 * Streamlit dashboard visualization
 * Anomaly detection models
 
----
 
-# 📷 Sample Visualizations
+# Sample Visualizations
 
 The project includes:
 
@@ -354,7 +339,6 @@ The project includes:
 * Feature importance charts
 * Behavioural risk visualizations
 
----
 
 # Connect With Me
 
@@ -368,6 +352,5 @@ I’m actively exploring:
 
 Feel free to connect or discuss interesting fraud detection datasets and ML applications.
 
----
 
 
